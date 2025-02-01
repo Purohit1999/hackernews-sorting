@@ -132,7 +132,6 @@ This project is licensed under the **MIT License**.
 ## 🎯 Author
 👨‍💻 **Purohit1999**  
 🔗 [GitHub Profile](https://github.com/Purohit1999)  
-📧 Email: purohit@example.com
 
 ---
 
